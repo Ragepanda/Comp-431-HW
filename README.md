@@ -11,4 +11,4 @@ messages into files that are human readable
 
 Homework 3: This is a reverse of homeworks 1 and 2, in that this homework was meant to simulate the server side operations of the SMTP 
 
-Homework 5: In the final installment, we combined homeworks (1-2) with 3 and implemented a server socket. Client could originate messages, and the server would receive messages, and then the intended client would received its message, placing it in a file local to the client. 
+Homework 5: In the final installment, we combined homeworks (1-2) with 3 and implemented a server socket. Client could originate messages, and the server would receive messages, and then the intended client would received its message, placing it in a file local to the client. For this last homework we were asked to pull our classes into solely the Client and Server files to make grading/testing easier. 
